@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.navbar a:visited {
+  color: white !important;
+}
+html {
+  scroll-behavior: smooth;
+}
