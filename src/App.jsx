@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename="/Main">
+      <BrowserRouter >
       <Navbar />
       
       <Routes>
